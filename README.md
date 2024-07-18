@@ -1,2 +1,1 @@
-# template-repository-conference
-template repository for conference proceedings
+# Accelerating geophysics research in a changing climate
